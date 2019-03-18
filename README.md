@@ -18,6 +18,8 @@ There are three main folder in this project.
 
 - `flappyBirdLike - NN` is where you can launch the training of your agents. It is not linked to the previous folder so if you want to change variables for the training, you would have to do it directly in that folder. Here you can see how the evolution is done using genetic algorithm and Neural Networks. During this part you have a slider at the bottom right of the display. This give you the possibility to accelerate the training speed. Be carrefull though, this project is not as efficient as it could be and so it needs a lot of calculation.
 
+[Training Agents](ttps://github.com/GeraudMM/NeuroEvolution-on-flappy-bird/blob/master/Trained_Agent.png)
+
 - `flappyBirdLike - TrainedBird` allows you to watch a verry well trained agent evolving in an improved environement.
 
 ## Installing
