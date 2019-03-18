@@ -1,7 +1,5 @@
 # NeuroEvolution-on-flappy-bird
 
-#### Trained Agent scoring more than 1000
-![](https://github.com/GeraudMM/NeuroEvolution-on-flappy-bird/blob/master/Trained_Agent.png)
 
 ## Environment
 
@@ -12,6 +10,10 @@ The Episode ends when all the birds have lost.
 The two actions are : 
 - `0` - do nothing
 - `1` - Aplly a force to go up
+
+
+#### Trained Agent scoring more than 1000
+![](https://github.com/GeraudMM/NeuroEvolution-on-flappy-bird/blob/master/Trained_Agent.png)
 
 ## Folders
 
