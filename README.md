@@ -28,6 +28,9 @@ There are three main folder in this project.
 #### Training of the Agents
 ![](https://github.com/GeraudMM/NeuroEvolution-on-flappy-bird/blob/master/Training_Agents.png?raw=true)
 
+During an épisode of training, we have 500 agents trying to stay alive. Once they're all out of the game, we choose the bests ones and duplicate them with a genetic algorithm that provide mutation on the neurals networks. 
+Finally, after many selection and mutation we succed to have an agent that is able to play quit perfectly this simple game.
+
 ## Installing
 
 In order to run this simulation, you'll have to download Atom, sublim text or visual studio. Thanks to an HTMl file, you would be able to run it your browser (use chrome for more efficiency).
