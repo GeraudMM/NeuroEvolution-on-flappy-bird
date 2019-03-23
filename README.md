@@ -39,4 +39,3 @@ I recomand you to go with [Atom](https://atom.io/) as you can directly download 
 
 ### This project was made following Daniel shifman's tutorials on NeuroEvolution on YouTube. Most part of the code come from him. 
 
-The neuralnetwork library was made using TensorFlow.
